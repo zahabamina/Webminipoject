@@ -9,9 +9,10 @@
 
 # In Ubuntu
 1. The files should be stored in
-  Open the File manager
-  Go to computer
-  Open opt file
-  Open lampp file
-  Open htdocs file
- Here you have to save the code.
+2. Open the File manager
+3. Go to computer
+4. Open opt file
+5. Open lampp file
+6. Open htdocs file
+
+Here you have to save the code.
